@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73b7d285-8582-4e79-86ec-b0928708226b" name="Changes" comment="statr">
-      <change afterPath="$PROJECT_DIR$/Basic/elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic/sandbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrangeHRM/Locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrangeHRM/Pages/Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrangeHRM/Pages/MainPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrangeHRM/Test Results 1 .html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrangeHRM/Tests/LoginTests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/screenshot1.png" afterDir="false" />
-    </list>
+    <list default="true" id="73b7d285-8582-4e79-86ec-b0928708226b" name="Changes" comment="statr" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,7 +219,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711283467955</updated>
-      <workItem from="1711283468994" duration="41085000" />
+      <workItem from="1711283468994" duration="41395000" />
     </task>
     <task id="LOCAL-00001" summary="statr">
       <option name="closed" value="true" />
@@ -240,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711306141831</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="statr">
+      <option name="closed" value="true" />
+      <created>1711903742960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711903742960</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +248,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
